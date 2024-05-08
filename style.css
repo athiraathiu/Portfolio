@@ -1,0 +1,42 @@
+.text-bottom{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+    float: inline-start;
+}
+.tab-pane img{
+    height: 200px;
+    width: 200px;
+}
+/* .form-control{
+    background-color: cadetblue;
+} */
+.site-contact-details li{
+    list-style: none;
+    padding: 0px;
+    margin-left: 0px;
+}
+.text-blue{
+    color: blue;
+}
+.rounded-circle{
+    background-color: #333;
+    
+}
+.bi{
+    color: darkcyan;
+    
+}
+.form-control{
+    background-color: #333;
+}
+.rounded-pill{
+    background-color: darkcyan;
+}
+textarea{
+    height: 150px;
+}
